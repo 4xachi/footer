@@ -1,2 +1,1 @@
-$ dig jhnmrk.com +nostats +nocomments +nocmd
-jhnmrk.com.   3600  IN  A 192.168.100.1
+jhnmrk.com
